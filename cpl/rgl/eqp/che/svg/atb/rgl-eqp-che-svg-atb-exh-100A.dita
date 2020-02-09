@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="rgl-eqp-che-svg-atb-exh-100A">
+    <title><keyword conkeyref="ver-ctl-rgl-eqp/rgl-eqp-che-svg-atb-exh-tit-nbg"/>Exhaust &amp;
+        Catalyser Sysems</title>
+    <conbody>
+        <table scale="70" frame="none" rowsep="0" colsep="0" pgwide="0">
+            <tgroup cols="1">
+                <tbody>
+                    <row>
+                        <entry align="left" valign="middle"
+                            conkeyref="ver-ctl-tbl-rgl-eqp/rgl-eqp-che-svg-atb-exh-100A"/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

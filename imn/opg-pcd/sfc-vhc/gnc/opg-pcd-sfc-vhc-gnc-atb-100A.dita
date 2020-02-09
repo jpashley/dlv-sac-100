@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="opg-pcd-sfc-vhc-gnc-atb-100A">
+    <title><keyword conkeyref="ver-ctl-opg-pcd-sfc-vhc/opg-pcd-sfc-vhc-gnc-atb-tit-nbg"
+        />Automobiles</title>
+    <body>
+        <table scale="70" frame="none" rowsep="0" colsep="0" pgwide="0">
+            <tgroup cols="1">
+                <tbody>
+                    <row>
+                        <entry align="left" valign="middle"
+                            conkeyref="ver-ctl-tbl-opg-pcd-sfc-vhc/opg-pcd-sfc-vhc-gnc-atb-100A"/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

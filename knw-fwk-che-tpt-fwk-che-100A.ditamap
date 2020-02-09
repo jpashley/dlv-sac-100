@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="mdu-tpt-gnc-100A">
+
+    <title>Transportation Framework</title>
+
+    <topicref href="cpl/mdu/cpl/mdu-cpl-gnc-100A.dita">
+        <mapref href="rgl-fwk-che-cpl-rgl-che-100A.ditamap"/>
+    </topicref>
+
+    <topicref href="imn/mdu/opg-pcd/mdu-opg-pcd-gnc-100A.dita">
+        <mapref href="opg-fwk-che-opg-pcd-sac-100A.ditamap"/>
+    </topicref>
+
+</map>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="opg-pcd-sfc-vhc-sac-atb-ltn-100A">
+    <title><keyword conkeyref="ver-ctl-opg-pcd-sfc-vhc/opg-pcd-sfc-vhc-sac-atb-ltn-tit-nbg"
+        />Limitations (Traffic Rules)</title>
+    <conbody>
+        <table scale="70" frame="none" rowsep="0" colsep="0" pgwide="0">
+            <tgroup cols="1">
+                <tbody>
+                    <row>
+                        <entry align="left" valign="middle"
+                            conkeyref="ver-ctl-tbl-opg-pcd-sfc-vhc/opg-pcd-sfc-vhc-sac-atb-ltn-100A"
+                        />
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

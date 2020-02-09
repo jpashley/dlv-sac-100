@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-ver-ctl-rgl-fwk-che-cpl-rgl-che-100A">
+
+    <title>CHE - Regulations - Version Control - Change History/Summary</title>
+
+    <topicref otherprops="tit-nbg-exc"
+        href="../ver/ver-ctl-tit-nbg-exc-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+    <topicref otherprops="tit-nbg-inc"
+        href="../ver/ver-ctl-tit-nbg-inc-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+
+    <keydef otherprops="tit-nbg-exc" keys="ver-ctl-mdu-cpl"
+        href="../ver/ver-ctl-tit-nbg-exc-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+    <keydef otherprops="tit-nbg-inc" keys="ver-ctl-mdu-cpl"
+        href="../ver/ver-ctl-tit-nbg-inc-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+
+    <keydef otherprops="tit-nbg-exc" keys="ver-ctl-mdu-cpl-rgl"
+        href="../ver/ver-ctl-tit-nbg-exc-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+    <keydef otherprops="tit-nbg-inc" keys="ver-ctl-mdu-cpl-rgl"
+        href="../ver/ver-ctl-tit-nbg-inc-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+
+    <keydef otherprops="tit-nbg-exc" keys="ver-ctl-rgl-itu"
+        href="../ver/ver-ctl-tit-nbg-exc-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+    <keydef otherprops="tit-nbg-inc" keys="ver-ctl-rgl-itu"
+        href="../ver/ver-ctl-tit-nbg-inc-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+
+    <keydef otherprops="tit-nbg-exc" keys="ver-ctl-rgl-eqp"
+        href="../ver/ver-ctl-tit-nbg-exc-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+    <keydef otherprops="tit-nbg-inc" keys="ver-ctl-rgl-eqp"
+        href="../ver/ver-ctl-tit-nbg-inc-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+
+    <topicref href="../ver/ver-ctl-tbl-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+
+    <keydef keys="ver-ctl-tbl-mdu-cpl" href="../ver/ver-ctl-tbl-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+    <keydef keys="ver-ctl-tbl-mdu-cpl-rgl"
+        href="../ver/ver-ctl-tbl-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+    <keydef keys="ver-ctl-tbl-rgl-itu" href="../ver/ver-ctl-tbl-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+    <keydef keys="ver-ctl-tbl-rgl-eqp" href="../ver/ver-ctl-tbl-rgl-fwk-che-cpl-rgl-che-100A.dita"/>
+
+</map>

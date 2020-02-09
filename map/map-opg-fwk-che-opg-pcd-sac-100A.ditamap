@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-opg-fwk-che-opg-pcd-sac-100A">
+
+    <title>Operating Procedures - Structured Content</title>
+
+    <topicref href="../imn/mdu/opg-pcd/mdu-opg-pcd-gnc-100A.dita">
+        <topicref href="../imn/opg-pcd/sfc-vhc/opg-pcd-sfc-vhc-gnc-100A.dita">
+            <topicref href="../imn/opg-pcd/sfc-vhc/gnc/opg-pcd-sfc-vhc-gnc-atb-100A.dita">
+                <topicref
+                    href="../imn/opg-pcd/sfc-vhc/sac/atb/opg-pcd-sfc-vhc-sac-atb-lic-100A.dita"/>
+                <topicref
+                    href="../imn/opg-pcd/sfc-vhc/sac/atb/opg-pcd-sfc-vhc-sac-atb-ltn-100A.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="../imn/opg-pcd/wtr-vhc/opg-pcd-wtr-vhc-gnc-100A.dita">
+            <topicref href="../imn/opg-pcd/wtr-vhc/gnc/opg-pcd-wtr-vhc-gnc-shp-100A.dita">
+                <topicref
+                    href="../imn/opg-pcd/wtr-vhc/sac/shp/opg-pcd-wtr-vhc-sac-shp-lic-100A.dita"/>
+                <topicref
+                    href="../imn/opg-pcd/wtr-vhc/sac/shp/opg-pcd-wtr-vhc-sac-shp-ltn-100A.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="../imn/opg-pcd/abn-vhc/opg-pcd-abn-vhc-gnc-100A.dita">
+            <topicref href="../imn/opg-pcd/abn-vhc/gnc/opg-pcd-abn-vhc-gnc-dne-100A.dita">
+                <topicref
+                    href="../imn/opg-pcd/abn-vhc/sac/dne/opg-pcd-abn-vhc-sac-dne-lic-100A.dita"/>
+                <topicref
+                    href="../imn/opg-pcd/abn-vhc/sac/dne/opg-pcd-abn-vhc-sac-dne-ltn-100A.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+
+</map>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="opg-fwk-che-opg-pcd-sac-100A">
+
+    <title>Operating Instructions - Operating Procedures</title>
+
+    <topicmeta> </topicmeta>
+
+    <mapref href="map/map-opg-fwk-che-opg-pcd-sac-100A.ditamap"/>
+
+    <mapref href="map/map-ver-ctl-opg-fwk-che-opg-pcd-sac-100A.ditamap"/>
+
+    <mapref href="map/map-key-opg-fwk-che-opg-pcd-sac-100A.ditamap"/>
+
+    <mapref href="key/key-def-che-opg-pcd-sac-100A.ditamap"/>
+
+</map>

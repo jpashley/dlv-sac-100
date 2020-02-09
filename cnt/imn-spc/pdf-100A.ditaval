@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <!-- Default setting to include all properties -->
+    <prop action="include"/>
+
+    <prop action="exclude" att="otherprops" val="tit-nbg-inc"/>
+    <prop action="include" att="otherprops" val="tit-nbg-exc"/>
+
+</val>

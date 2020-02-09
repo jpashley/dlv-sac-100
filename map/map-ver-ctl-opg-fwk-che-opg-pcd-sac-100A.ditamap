@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-ver-ctl-opg-fwk-che-opg-pcd-sac-100A">
+
+    <title>Operating Procedures - Version Control - Change History/Summary</title>
+
+    <topicref otherprops="tit-nbg-exc"
+        href="../ver/ver-ctl-tit-nbg-exc-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+    <topicref otherprops="tit-nbg-inc"
+        href="../ver/ver-ctl-tit-nbg-inc-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+
+    <keydef otherprops="tit-nbg-exc" keys="ver-ctl-mdu-opg-pcd"
+        href="../ver/ver-ctl-tit-nbg-exc-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+    <keydef otherprops="tit-nbg-inc" keys="ver-ctl-mdu-opg-pcd"
+        href="../ver/ver-ctl-tit-nbg-inc-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+
+    <keydef otherprops="tit-nbg-exc" keys="ver-ctl-opg-pcd-sfc-vhc"
+        href="../ver/ver-ctl-tit-nbg-exc-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+    <keydef otherprops="tit-nbg-inc" keys="ver-ctl-opg-pcd-sfc-vhc"
+        href="../ver/ver-ctl-tit-nbg-inc-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+
+    <keydef otherprops="tit-nbg-exc" keys="ver-ctl-opg-pcd-wtr-vhc"
+        href="../ver/ver-ctl-tit-nbg-exc-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+    <keydef otherprops="tit-nbg-inc" keys="ver-ctl-opg-pcd-wtr-vhc"
+        href="../ver/ver-ctl-tit-nbg-inc-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+
+    <keydef otherprops="tit-nbg-exc" keys="ver-ctl-opg-pcd-abn-vhc"
+        href="../ver/ver-ctl-tit-nbg-exc-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+    <keydef otherprops="tit-nbg-inc" keys="ver-ctl-opg-pcd-abn-vhc"
+        href="../ver/ver-ctl-tit-nbg-inc-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+
+    <topicref href="../ver/ver-ctl-tbl-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+
+    <keydef keys="ver-ctl-tbl-mdu-opg-pcd"
+        href="../ver/ver-ctl-tbl-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+    <keydef keys="ver-ctl-tbl-opg-pcd-sfc-vhc"
+        href="../ver/ver-ctl-tbl-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+    <keydef keys="ver-ctl-tbl-opg-pcd-wtr-vhc"
+        href="../ver/ver-ctl-tbl-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+    <keydef keys="ver-ctl-tbl-opg-pcd-abn-vhc"
+        href="../ver/ver-ctl-tbl-opg-fwk-che-opg-pcd-sac-100A.dita"/>
+
+</map>

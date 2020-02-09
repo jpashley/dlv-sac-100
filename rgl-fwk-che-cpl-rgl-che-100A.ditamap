@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="rgl-fwk-che-cpl-rgl-che-100A">
+
+    <title>Implementation Requirements - Regulations - Swiss Confederation</title>
+
+    <mapref href="map/map-rgl-fwk-che-cpl-rgl-che-100A.ditamap"/>
+
+    <mapref href="map/map-ver-ctl-rgl-fwk-che-cpl-rgl-che-100A.ditamap"/>
+
+    <mapref href="map/map-key-rgl-fwk-che-cpl-rgl-che-100A.ditamap"/>
+
+    <mapref href="key/key-def-che-cpl-rgl-che-100A.ditamap"/>
+
+</map>

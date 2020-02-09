@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="XXX">
+
+    <title>Guidance Material - YYY - ZZZ</title>
+
+    <!-- Default values to be defined according to requirements. -->
+
+    <!--<mapref href="map/map-gdm-AAA-100A.ditamap"/>
+
+    <mapref href="map/map-ver-ctl-AAA-100A.ditamap"/>
+
+    <mapref href="map/map-key-AAA-100A.ditamap"/>
+
+    <mapref href="key/key-def-AAA-100A.ditamap"/>-->
+
+</map>

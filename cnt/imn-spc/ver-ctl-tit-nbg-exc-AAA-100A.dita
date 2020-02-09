@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="XXX">
+    <title>Version Control - YYY - Change History</title>
+    <refbody>
+        <table scale="70" frame="all" rowsep="1" colsep="1" pgwide="1">
+            <tgroup cols="12">
+                <colspec colnum="1" colname="col-001" colwidth="0.5*"/>
+                <colspec colnum="2" colname="col-002" colwidth="0.5*"/>
+                <colspec colnum="3" colname="col-003" colwidth="1*"/>
+                <colspec colnum="4" colname="col-004" colwidth="1*"/>
+                <colspec colnum="5" colname="col-005" colwidth="1*"/>
+                <colspec colnum="6" colname="col-006" colwidth="1*"/>
+                <colspec colnum="7" colname="col-007" colwidth="1*"/>
+                <colspec colnum="8" colname="col-008" colwidth="1*"/>
+                <colspec colnum="9" colname="col-009" colwidth="1*"/>
+                <colspec colnum="10" colname="col-010" colwidth="1*"/>
+                <colspec colnum="11" colname="col-011" colwidth="1*"/>
+                <colspec colnum="12" colname="col-012" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry align="center" valign="middle" morerows="1">Ver</entry>
+                        <entry align="center" valign="middle" morerows="1">Amdt</entry>
+                        <entry align="center" valign="middle" morerows="1">Type</entry>
+                        <entry align="center" valign="middle" morerows="1">Status</entry>
+                        <entry align="center" valign="middle" namest="col-005" nameend="col-007"
+                            >Approval (Internal)</entry>
+                        <entry align="center" valign="middle" namest="col-008" nameend="col-010"
+                            >Approval (External)</entry>
+                        <entry align="center" valign="middle" namest="col-011" nameend="col-012"
+                            >Validity</entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">Name</entry>
+                        <entry align="center" valign="middle">Role</entry>
+                        <entry align="center" valign="middle">Date</entry>
+                        <entry align="center" valign="middle">Name</entry>
+                        <entry align="center" valign="middle">Role</entry>
+                        <entry align="center" valign="middle">Date</entry>
+                        <entry align="center" valign="middle">Start</entry>
+                        <entry align="center" valign="middle">End</entry>
+                    </row>
+                </thead>
+                <tbody>
+
+                    <row>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                    </row>
+
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

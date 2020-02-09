@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="XXX">
+    <title>Version Control - YYY - Summary</title>
+    <refbody>
+        <table scale="70" frame="all" rowsep="1" colsep="1" pgwide="1">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col-001" colwidth="1*"/>
+                <colspec colnum="2" colname="col-002" colwidth="1.5*"/>
+                <thead>
+                    <row>
+                        <entry align="left" valign="middle">Topic</entry>
+                        <entry align="left" valign="middle">Version</entry>
+                    </row>
+                </thead>
+                <tbody>
+
+                    <row>
+                        <entry>xxx</entry>
+                        <entry>xxx</entry>
+                    </row>
+
+                </tbody>
+            </tgroup>
+        </table>
+
+    </refbody>
+</reference>

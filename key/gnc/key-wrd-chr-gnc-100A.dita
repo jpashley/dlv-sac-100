@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="key-wrd-gnc-itg-mgt-sys">
+    <title>Keywords - Characters - Generic</title>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" pgwide="1">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col-001" colwidth="1*"/>
+                <colspec colnum="2" colname="col-002" colwidth="3*"/>
+                <thead>
+                    <row>
+                        <entry align="left" valign="middle">Value</entry>
+                        <entry align="left" valign="middle">Meaning</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="cnl"
+                            >&#x3a;</keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="cnl-mng"
+                            >Colon</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="slh-fwd">&#x002f;
+                            </keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="slh-fwd-mng">Slash
+                                (Forward)</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="slh-bak">&#x005c;
+                            </keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="slh-bak-mng">Slash
+                                (Back)</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="hyp"
+                            >&#x2d;</keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="hyp-mng"
+                            >Hyphen</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="dbl-hyp"
+                            >&#x2014;</keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="dbl-hyp-mng">Double Hyphen
+                                (Em Dash)</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="spa"
+                            >&#xA0;</keyword></entry>
+                        <entry align="left" valign="middle"><keyword>Space</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="pth-lef"
+                            >&#x28;</keyword></entry>
+                        <entry align="left" valign="middle"><keyword>Left
+                            Parenthesis</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="pth-rgt"
+                            >&#x29;</keyword></entry>
+                        <entry align="left" valign="middle"><keyword>Right
+                            Parenthesis</keyword></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

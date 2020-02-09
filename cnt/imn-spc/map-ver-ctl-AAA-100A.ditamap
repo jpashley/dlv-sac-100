@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="XXX">
+
+    <title>XXX - YYY - Version Control - Change History/Summary</title>
+
+    <!-- Default values to be defined according to requirements. -->
+
+    <!-- Version Control & Topic Numbering (exc/inc) -->
+
+    <!-- <topicref otherprops="tit-nbg-exc" href="../ver/ver-ctl-tit-nbg-exc-AAA-100A.dita"/>
+    <topicref otherprops="tit-nbg-inc" href="../ver/ver-ctl-tit-nbg-inc-AAA-100A.dita"/>
+
+    <keydef otherprops="tit-nbg-exc" keys="ver-ctl-YYY"
+        href="../ver/vver-ctl-tit-nbg-exc-AAA-100A.dita"/>
+    <keydef otherprops="tit-nbg-inc" keys="ver-ctl-YYY"
+        href="../ver/ver-ctl-tit-nbg-inc-AAA-100A.dita"/>
+
+    <!-\- Version Control Table -\->
+    <topicref href="../ver/ver-ctl-tbl-AAA-100A.dita"/>
+
+    <keydef keys="ver-ctl-tbl-YYY" href="../ver/ver-ctl-tbl-AAA-100A.dita"/>-->
+
+</map>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-key-opg-fwk-che-opg-pcd-sac-100A">
+
+    <title>Operating Procedures - Generic - Context - Company-Specific - Key References</title>
+
+    <topicref otherprops="dsy-noo" linking="none" toc="no"
+        href="../key/gnc/key-wrd-chr-gnc-100A.dita"/>
+    <topicref otherprops="dsy-noo" linking="none" toc="no"
+        href="../key/che/key-wrd-ver-ctl-gnc-100A.dita"/>
+
+    <keydef keys="key-wrd-chr-gnc" href="../key/gnc/key-wrd-chr-gnc-100A.dita"/>
+    <keydef keys="key-wrd-ver-ctl-gnc" href="../key/che/key-wrd-ver-ctl-gnc-100A.dita"/>
+
+</map>

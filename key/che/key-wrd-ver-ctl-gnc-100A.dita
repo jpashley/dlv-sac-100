@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="key-wrd-gnc-itg-mgt-sys">
+    <title>Keywords - Version Control - Generic</title>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" pgwide="1">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col-001" colwidth="1*"/>
+                <colspec colnum="2" colname="col-002" colwidth="3*"/>
+                <thead>
+                    <row>
+                        <entry align="left" valign="middle">Value</entry>
+                        <entry align="left" valign="middle">Meaning</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="ver"
+                            >Version</keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="ver-mng"
+                            >Version</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="rev"
+                            >Revision</keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="rev-mng"
+                            >Revision</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="amd"
+                            >Amendment</keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="amd-mng"
+                                >Amendment</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="typ">Type</keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="typ-mng"
+                            >Type</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="sts"
+                            >Status</keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="std-mng"
+                            >Status</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="vld-dte-stt">Valid
+                                From</keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="vld-dte-stt-mng">Valid
+                                From</keyword></entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle"><keyword id="vld-dte-end">Valid
+                                To</keyword></entry>
+                        <entry align="left" valign="middle"><keyword id="vld-dte-end-mng">Valid
+                                To</keyword></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

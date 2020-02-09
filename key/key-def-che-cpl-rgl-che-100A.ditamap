@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="key-def-che-cpl-rgl-che-100A">
+
+    <title>CHE - Regulations - Content-Specific Keyword References</title>
+    
+    <keydef keys="mdu-cpl-gnc" href="../cpl/mdu/cpl/mdu-cpl-gnc-100A.dita"></keydef>	<keydef keys="mdu-cpl-gnc-100A" href="../cpl/mdu/cpl/mdu-cpl-gnc-100A.dita"></keydef>
+    <keydef keys="mdu-cpl-rgl-che" href="../cpl/mdu/cpl/rgl/mdu-cpl-rgl-che-100A.dita"></keydef>	<keydef keys="mdu-cpl-rgl-che-100A" href="../cpl/mdu/cpl/rgl/mdu-cpl-rgl-che-100A.dita"></keydef>
+    <keydef keys="rgl-itu-gnc" href="../cpl/rgl/itu/rgl-itu-gnc-100A.dita"></keydef>	<keydef keys="rgl-itu-gnc-100A" href="../cpl/rgl/itu/rgl-itu-gnc-100A.dita"></keydef>
+    <keydef keys="rgl-itu-che-rod" href="../cpl/rgl/itu/che/rgl-itu-che-rod-100A.dita"></keydef>	<keydef keys="rgl-itu-che-rod-100A" href="../cpl/rgl/itu/che/rgl-itu-che-rod-100A.dita"></keydef>
+    <keydef keys="rgl-itu-che-rai" href="../cpl/rgl/itu/che/rgl-itu-che-rai-100A.dita"></keydef>	<keydef keys="rgl-itu-che-rai-100A" href="../cpl/rgl/itu/che/rgl-itu-che-rai-100A.dita"></keydef>
+    <keydef keys="rgl-itu-che-wtr" href="../cpl/rgl/itu/che/rgl-itu-che-wtr-100A.dita"></keydef>	<keydef keys="rgl-itu-che-wtr-100A" href="../cpl/rgl/itu/che/rgl-itu-che-wtr-100A.dita"></keydef>
+    <keydef keys="rgl-itu-che-air" href="../cpl/rgl/itu/che/rgl-itu-che-air-100A.dita"></keydef>	<keydef keys="rgl-itu-che-air-100A" href="../cpl/rgl/itu/che/rgl-itu-che-air-100A.dita"></keydef>
+    <keydef keys="rgl-eqp-gnc" href="../cpl/rgl/eqp/rgl-eqp-gnc-100A.dita"></keydef>	<keydef keys="rgl-eqp-gnc-100A" href="../cpl/rgl/eqp/rgl-eqp-gnc-100A.dita"></keydef>
+    <keydef keys="rgl-eqp-gnc-isp" href="../cpl/rgl/eqp/gnc/rgl-eqp-gnc-isp-100A.dita"></keydef>	<keydef keys="rgl-eqp-gnc-isp-100A" href="../cpl/rgl/eqp/gnc/rgl-eqp-gnc-isp-100A.dita"></keydef>
+    <keydef keys="rgl-eqp-gnc-svg" href="../cpl/rgl/eqp/gnc/rgl-eqp-gnc-svg-100A.dita"></keydef>	<keydef keys="rgl-eqp-gnc-svg-100A" href="../cpl/rgl/eqp/gnc/rgl-eqp-gnc-svg-100A.dita"></keydef>
+    <keydef keys="rgl-eqp-che-svg-atb" href="../cpl/rgl/eqp/che/svg/rgl-eqp-che-svg-atb-100A.dita"></keydef>	<keydef keys="rgl-eqp-che-svg-atb-100A" href="../cpl/rgl/eqp/che/svg/rgl-eqp-che-svg-atb-100A.dita"></keydef>
+    <keydef keys="rgl-eqp-che-svg-atb-exh" href="../cpl/rgl/eqp/che/svg/atb/rgl-eqp-che-svg-atb-exh-100A.dita"></keydef>	<keydef keys="rgl-eqp-che-svg-atb-exh-100A" href="../cpl/rgl/eqp/che/svg/atb/rgl-eqp-che-svg-atb-exh-100A.dita"></keydef>
+    <keydef keys="rgl-eqp-che-svg-atb-tyr" href="../cpl/rgl/eqp/che/svg/atb/rgl-eqp-che-svg-atb-tyr-100A.dita"></keydef>	<keydef keys="rgl-eqp-che-svg-atb-tyr-100A" href="../cpl/rgl/eqp/che/svg/atb/rgl-eqp-che-svg-atb-tyr-100A.dita"></keydef>
+    
+</map>
