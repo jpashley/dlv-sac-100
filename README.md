@@ -7,7 +7,7 @@ Thanks
 John
 
 Hi,
-I am 2nd Apu.
+I am Apu.
 Changing the file.
 
 Regards,
